@@ -50,3 +50,8 @@ Through this project, I learned how to create and manage users in Linux, analyze
 This project is for educational purposes only. All activities were performed in a safe, offline lab environment. Do not attempt these techniques on real networks without explicit permission.
 
 📎 References
+
+CVE-2011-2523
+Metasploit Documentation
+John the Ripper
+Apache Vulnerabilities
